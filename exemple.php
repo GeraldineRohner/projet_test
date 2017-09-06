@@ -1,1 +1,1 @@
-<!DOCTUPE html>
+<!DOCTOPE html>
